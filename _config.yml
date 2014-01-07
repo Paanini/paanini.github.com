@@ -8,3 +8,16 @@ author: Paanini
 email: hello@paanini.me
 root: /
 permalink: /:year/:month/:day/:title/
+
+prose:
+ metadata:
+  _posts:
+   - name: "layout"
+   	 field:
+   	  element: "hidden"
+   	  value: "post"
+   - name: "published"
+     field:
+       label: "Published"
+       element: "checkbox"
+       value: true
