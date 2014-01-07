@@ -2,3 +2,7 @@ name: 30 Books
 markdown: redcarpet
 pygments: true
 safe: true
+url: http://paanini.github.io
+titlecase: true
+author: Paanini
+email: hello@paanini.me
