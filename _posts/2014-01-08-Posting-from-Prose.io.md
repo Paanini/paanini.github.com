@@ -1,5 +1,7 @@
 ---
 published: true
+layout: post
+date: 2014-01-08
 ---
 
 ## Posting from Prose.io
