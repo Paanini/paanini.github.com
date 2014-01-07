@@ -103,18 +103,17 @@ a:visited { color: #a0a; }
 }
 
 .footer .contact {
-  float: left;
-  margin-right: 3em;
+  float: right;
 }
 
 .footer .contact a {
-  color: #8085C1;
+  color: #9185C1;
 }
 
 .footer .rss {
-  margin-top: 1.1em;
   margin-right: -.2em;
-  float: right;
+  float: left;
+  color: #453;
 }
 
 .footer .rss img {
