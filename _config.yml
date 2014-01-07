@@ -1,0 +1,4 @@
+name: 30 Books
+markdown: redcarpet
+pygments: true
+safe: true
