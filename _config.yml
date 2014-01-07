@@ -6,3 +6,5 @@ url: http://paanini.github.io
 titlecase: true
 author: Paanini
 email: hello@paanini.me
+root: /
+permalink: /:year/:month/:day/:title/
