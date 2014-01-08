@@ -19,7 +19,7 @@ prose:
           value: "post"
       - name: "title"
         field:
-          element: "hidden"
+          element: "text"
           value: "Title"
       - name: "comments"
         field:
