@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Choosing A Blogging Platform
-date: {2014-01-04 16:07}
+date: {2014-01-07 16:07}
 categories: blog jekyll
 published: true
 ---
