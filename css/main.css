@@ -20,19 +20,26 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
+  font-size: 100%;
+  font-weight: bold; }
 
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #00a; }
-a:hover   { color: #000; }
+a         { color: #34495e;
+font-weight: bold; }
+a:hover   { color: #34495e; }
 a:visited { color: #a0a; }
 
 a:link {text-decoration:none;}
 a:visited {text-decoration:none;}
 a:hover {text-decoration:underline;}
 a:active {text-decoration:underline;}
+
+h3 a { color: #34495e; }
+h4 a { color: #34495e; }
+h5 a { color: #34495e; }
+h6 a { color: #34495e; }
 
 /*****************************************************************************/
 /*
@@ -75,7 +82,7 @@ a:active {text-decoration:underline;}
 
 .title {
   display: inline-block;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
   font-size: 1.5em;
   font-family: Arial;
 }
@@ -115,6 +122,7 @@ a:active {text-decoration:underline;}
 
 .footer .contact a {
   color: #9185C1;
+  font-weight: normal;
 }
 
 .footer .rss {
@@ -127,6 +135,10 @@ a:active {text-decoration:underline;}
   border: 0;
 }
 
+.footer .rss a {
+  color: #50a2da;
+  font-weight: normal;
+}
 /*****************************************************************************/
 /*
 /* Posts
@@ -171,4 +183,5 @@ a:active {text-decoration:underline;}
 
 .post a:hover {
   color: #f2c960;
+  text-decoration: none;
 }
