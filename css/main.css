@@ -20,8 +20,10 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%;
-  font-weight: bold; }
+  font-size: 120%;
+  font-weight: bold;
+  color: #0f5959;
+  text-align: center; }
 
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
@@ -51,6 +53,7 @@ h6 a { color: #34495e; }
 .posts {
   list-style-type: none;
   margin-bottom: 2em;
+  text-align: left;
 }
 
 .posts li {
@@ -61,6 +64,7 @@ h6 a { color: #34495e; }
   color: #47423F;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 80%;
+  text-align: center;
 }
 
 .posts a {
@@ -83,7 +87,7 @@ h6 a { color: #34495e; }
   width: 42em;
   margin: 3em auto 2em;
   line-height: 1.5em;
-  color: #0f5959;
+  color: #3d3d3d;
 }
 
 .header a {
@@ -96,7 +100,7 @@ h6 a { color: #34495e; }
   margin-bottom: 1em;
   font-size: 1.5em;
   font-family: Arial;
-  color: #638ca6;
+  text-align: left;
 }
 
 .title a {
@@ -112,8 +116,15 @@ h6 a { color: #34495e; }
   color: #000;
 }
 
+.header { 
+  text-align: left;
+  font-size: 100%;
+}
+
 .meta {
   color: #aaa;
+  text-align: center; 
+  margin-bottom: 3em;
 }
 
 .footer {
@@ -157,7 +168,7 @@ h6 a { color: #34495e; }
 .post pre {
   border: 1px solid #ddd;
   background-color: #eef;
-  padding: 0 .4em;
+  padding: 0 .4em;  
 }
 
 .post ul, .post ol {
@@ -194,10 +205,6 @@ h6 a { color: #34495e; }
   text-decoration: none;
 }
 
-.post title {
+.post .title {
   color: #eee131;
-}
-
-.post {
-  color: #3d3d3d;
 }
