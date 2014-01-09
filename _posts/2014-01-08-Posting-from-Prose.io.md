@@ -1,7 +1,6 @@
 ---
 layout: post
 published: true
-date: {}
 title: Title
 comments: true
 categories: misc
