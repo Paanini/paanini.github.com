@@ -83,6 +83,7 @@ h6 a { color: #34495e; }
   width: 42em;
   margin: 3em auto 2em;
   line-height: 1.5em;
+  color: #0f5959;
 }
 
 .header a {
@@ -195,4 +196,8 @@ h6 a { color: #34495e; }
 
 .post title {
   color: #eee131;
+}
+
+.post {
+  color: #3d3d3d;
 }
