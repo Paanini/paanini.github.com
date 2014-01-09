@@ -1,10 +1,11 @@
 ---
-published: true
 layout: post
-date: 2014-01-08
+published: true
+date: {}
+title: Title
+comments: true
+categories: misc
 ---
-
-## Posting from Prose.io
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
