@@ -19,6 +19,20 @@ body {
   text-align: center;
 }
 
+/*Custom CSS for mobile devices*/
+@media only screen and (max-width: 1300px) {
+  body {
+    padding-top: -10px;
+    padding-right: 24px;
+    padding-left: 24px;
+  }
+
+.site {
+  max-width: 340px;
+}
+
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-size: 120%;
   font-weight: bold;
