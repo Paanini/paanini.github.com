@@ -1,0 +1,28 @@
+@import url("main.css");
+
+.title {
+   font-weight: normal;
+   }
+   
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: portrait){
+
+.footer {
+   font-size: 120%;
+}
+}
+
+h1, h2, h3, h4, h5, h6 {
+   font-size: 140%;
+   font-weight: 600;
+   }
+
+.header a{
+   font-size: 70%;
+   font-weight: normal;
+   }
+   
+a { font-weight: 600;}
+
+.header {
+   margin-top: -15px;
+   }
