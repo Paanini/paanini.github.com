@@ -13,11 +13,13 @@ Blogger, I found to be too limited; the pre-built themes didn't allow a lot of c
 
 As someone who puts a great deal of thought into my software choices, I started looking around for some alternatives, and ended up trying [Jekyll Bootstrap](http://jekyllbootstrap.com/), [Octopress](http://octopress.org) and finally plain-vanilla Jekyll, which is what I've settled on.
 
-Though both Bootstrap and Octopress are meant to simplify the process of setting up a [Jekyll](http://github.com/mojombo/jekyll) blog, they add too much fluff to the folder structure, and end up complicating the process significantly. Installing themes on Bootstrap is difficult, and Octopress required me to have access to a full development environment just to add a new post.
+Though both Bootstrap and Octopress are meant to simplify the process of setting up a [Jekyll](http://jekyllrb.com/) blog, they add too much fluff to the folder structure, and end up complicating the process significantly. Installing themes on Bootstrap is difficult, and Octopress required me to have access to a full development environment just to add a new post.
 
-I decided to use plain-vanilla Jekyll, and desisted from using any fancy themes, choosing instead to tweak the [default theme](http://github.com/mojombo/jekyll) to my liking. You can probably tell the theme is "custom" by taking a look at the source for this page - the CSS is really messy with lots of redundant tags. I'm afraid to clean it up now, fearing the site will probably break if I change anything. (Thank god it's versioned!)
+I decided to use plain-vanilla Jekyll, and desisted from using any fancy themes, choosing instead to tweak the [default theme](http://github.com/mojombo/jekyll) to my liking. You can probably tell the theme is "custom" by taking a look at the source for this page - the CSS is really messy with lots of redundant tags. I'm afraid to clean it up now, fearing the site will probably break if I change anything. (Thank god it's versioned!) 
 
-This setup allows me full access to the site on a local Git repository on my Linux machine, and posting via [Prose.io](http://prose.io) through a browser if I'm on any other machine. (They also allow posting via mobile, but I haven't tried that out yet.)
+This setup allows me full access to the site on a local Git repository on my Linux machine, and posting via [Prose.io](http://prose.io) through a browser if I'm on any other machine. (They also allow posting via mobile, but I haven't tried that out yet.) [Github Pages](http://pages.github.com/) is an excellent (and free!) web host for static sites, so hosting won't be a problem.
+
+If you're interested in setting up a similar blog yourself, head over to the [Jekyll Documentation](http://jekyllrb.com/docs/installation/) and install the required packages, it shouldn't take you more than a few minutes to be up and running. Feel free to drop me an [email](mailto:hello@paanini.me) if you run into any trouble.
 
 I want to write more starting this year, so settings up this blog was the first step! Since I'm horrible at coming up with clever names, this blog won't have a name.
 
