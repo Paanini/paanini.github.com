@@ -44,8 +44,8 @@ p { margin: 1em 0; }
 
 a {
   color: #34495e;
-  font-weight: bold;
 }
+
 a:hover   { color: #d93240; }
 a:visited { color: #a0a; }
 
@@ -72,13 +72,15 @@ h6 a { color: #34495e; }
 
 .posts li {
   line-height: 2em;
+  font-weight: 600;
 }
 
 .posts span {
   color: #47423F;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
   font-size: 80%;
   text-align: center;
+  font-weight: 400;
 }
 
 .posts a {
