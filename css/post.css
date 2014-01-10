@@ -4,8 +4,8 @@
    font-weight: normal;
    }
    
-@media only screen and (max-width: 740px) {
-    body {
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: portrait){
+/*    body {
     padding-top: 0px;
     padding-right: 24px;
     padding-left: 24px;
@@ -14,7 +14,10 @@
 .meta, .post, h2 {
    margin-right: 15px;
 }
-
+*/
+.footer {
+   font-size: 110%;
+}
 .site {
   max-width: 350px;
 }
