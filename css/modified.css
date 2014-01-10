@@ -20,7 +20,7 @@ body {
 }
 
 /*Custom CSS for mobile devices*/
-@media only screen and (max-width: 740px) {
+@media only screen and (max-width: 440px) {
     body {
     padding-top: 0px;
     padding-right: 24px;
