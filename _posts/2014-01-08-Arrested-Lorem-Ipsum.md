@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Arrested Lorem Ipsum
 comments: true
 categories: misc
