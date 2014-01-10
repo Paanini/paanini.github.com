@@ -14,7 +14,7 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
+  font: 13.34px 'Open Sans', Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
 }
@@ -39,7 +39,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-size: 140%;
-  font-weight: bold;
+  font-weight: 600;
   color: #0f5959;
   text-align: center; }
 
@@ -48,7 +48,7 @@ p { margin: 1em 0; }
 
 a {
   color: #34495e;
-  font-weight: bold;
+  font-weight: 600;
 }
 a:hover   { color: #d93240; }
 a:visited { color: #a0a; }
