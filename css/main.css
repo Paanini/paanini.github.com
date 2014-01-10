@@ -20,13 +20,7 @@ body {
 }
 
 /*Custom CSS for mobile devices*/
-@media only screen and (max-width: 1300px) {
-  body {
-    padding-top: -10px;
-    padding-right: 24px;
-    padding-left: 24px;
-  }
-
+@media only screen and (max-width: 640px) {
 .site {
   max-width: 340px;
 }
