@@ -16,6 +16,6 @@ Though both Bootstrap and Octopress are meant to simplify the process of setting
 
 This setup allows me full access to the site on a local Git repository on my Linux machine, and posting via [Prose.io](http://prose.io) through a browser if I'm on any other machine. (They also allow posting via mobile, but I haven't tried that out yet.)
 
-I want to write more starting this year, so settings up this blog was the first step! I also want to read more this year, which is why I'm calling it ### 30 Books (until I can come up with something better)
+I want to write more starting this year, so settings up this blog was the first step! Since I'm horrible at coming up with clever names, this blog won't have a name.
 
 Happy New Year!
