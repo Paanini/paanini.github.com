@@ -62,11 +62,12 @@ h6 a { color: #34495e; }
   list-style-type: none;
   margin-bottom: 2em;
   text-align: left;
+  font-size: 120%;
 }
 
 .posts li {
   line-height: 2em;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .posts span {
@@ -93,7 +94,7 @@ h6 a { color: #34495e; }
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 42em;
+  width: 46em;
   margin: 3em auto 2em;
   line-height: 1.5em;
   color: #3d3d3d;
@@ -106,10 +107,10 @@ h6 a { color: #34495e; }
 .title {
   display: inline-block;
   margin-bottom: 1em;
-  font-size: 1.5em;
+  font-size: 2em;
   font-family: 'Open Sans', sans-serif;
   text-align: left;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .title a {
