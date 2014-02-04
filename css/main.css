@@ -25,6 +25,9 @@ body {
   max-width: 340px;
 }
 
+.posts {
+  font-size: 100%;
+}
 }
 
 h1, h2, h3, h4, h5, h6 {
