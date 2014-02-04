@@ -15,7 +15,7 @@ Viewed as the story of its founders rather than the story of Twitter itself, the
 Twitter’s impact on mainstream media, and its growth as a tool used to spread news, spark revolutions, and let celebrities engage with their audiences is covered extensively. Ashton Kutcher beating CNN to become the first Twitter account with a million followers, signing up Oprah on her show, and delaying maintenance on Twitter’s servers so citizens of Syria could use it to voice their protests are some of the highlights.
 
 All in all, it’s gripping enough to force you to complete the book. I loved the scenes with Mark Zuckerberg where he tries to buy Twitter (twice), only to be turned down. The writing is brilliant in these parts – so wonderfully awkward and tense, but hilarious to the reader.  (The chapter is titled “[Accidental Billionaires](http://www.amazon.in/Accidental-Billionaires-Betrayal-Founding-Facebook/dp/0099551233/ref=sr_1_1?s=books&ie=UTF8&qid=1391504737&sr=1-1&keywords=accidental+billionaires)” which is what I’m going to be reading next!). Another amusing takeaway from the book is the quote
-> "Let's Make Better Mistakes Tomorrow"
+> **"Let's Make Better Mistakes Tomorrow"**
 
 which was put up at Twitter's office, hung upside down. There's something so optimistic and uplifting about the quote, I loved it!
 
