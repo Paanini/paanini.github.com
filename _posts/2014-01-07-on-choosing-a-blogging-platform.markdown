@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Choosing A Blogging Platform
+title: On Choosing A Blogging Platform
 date: "2014-01-07 16:07"
 categories: blog
 published: true
