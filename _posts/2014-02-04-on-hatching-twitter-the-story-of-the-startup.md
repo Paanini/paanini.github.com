@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "On Hatching Twitter - The Story of the Startup"
+title: On Hatching Twitter by Nick Bolton
 comments: true
 categories: misc
 ---
