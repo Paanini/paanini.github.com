@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Hatching Twitter by Nick Bolton
+title: Hatching Twitter by Nick Bilton
 comments: true
 categories: misc
 ---
