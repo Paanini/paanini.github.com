@@ -6,7 +6,7 @@ comments: true
 categories: misc
 ---
 
-Right off the bat, this [book](http://www.amazon.in/Hatching-Twitter-Nick-Bilton/dp/1444761951/ref=sr_1_1?s=books&ie=UTF8&qid=1391504704&sr=1-1&keywords=hatching+twitter) isn’t about Twitter the product/website/app. In fact, the story of how the product matured over the years gets almost no mention in the book; particularly Twitter’s transition from an SMS based service to a smartphone app is completely absent.  Similarly, the stories behind the development of Twitter’s now-famous features such as the Retweet, Favourite or Direct Messaging are completely ignored, and Twitter’s biggest contribution to Internet speak, the #hashtag gets very little mention.
+Right off the bat, this [book](http://www.amazon.in/Hatching-Twitter-Nick-Bilton/dp/1444761951/ref=sr_1_1?s=books&ie=UTF8&qid=1391504704&sr=1-1&keywords=hatching+twitter) isn’t about Twitter, the product/website/app. In fact, the story of how the product matured over the years gets almost no mention in the book; particularly Twitter’s transition from an SMS based service to a smartphone app is completely absent.  Similarly, the stories behind the development of Twitter’s now-famous features such as the Retweet, Favourite or Direct Messaging are completely ignored, and Twitter’s biggest contribution to Internet speak, the #hashtag gets very little mention.
 
 What this book covers amply, are the ever-changing relationships between the co-founders, early employees and investors. In minute detail, Nick Bolton talks about the internal conflicts, power struggles and boardroom coups that led to Twitter changing CEOs thrice in three years.
 
