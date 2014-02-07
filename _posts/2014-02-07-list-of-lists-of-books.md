@@ -32,4 +32,5 @@ These are a gold mine of tech/startups/entrepreneurship/management/self-improvem
 **<left>Art / Culture / History / Design / Miscellaneous</left>**
 
 I love Maria Popova's blog [Brain Pickings](http://www.brainpickings.org/) so much, I thought her list deserved a separate category altogether. A treasure trove of books I'd normally have no way of finding out about, there are hundreds (maybe more, the page is an infinitely scrolling list) of books with intelligent-sounding titles. My next book is definitely from this list.
+
 - [Book Pickings](http://bookpickings.brainpickings.org/)
