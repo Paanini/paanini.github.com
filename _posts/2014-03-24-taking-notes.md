@@ -16,5 +16,4 @@ I eventually resorted to storing my notes in plain-text files and putting them i
 
 Today I started using [Simplenote](http://simplenote.com/), which is a beauuuutiful app. It’s extremely bare-bones – only plain-text is supported, but it has really fast search and you can use tags for better organization. The real clincher for me was that I could use [Resoph Notes](http://resoph.com/ResophNotes/Welcome.html) on Windows, which gives you the option of storing the notes as plain-text files. Naturally, I opted to backup my notes in my Dropbox folder (which used to be part of their premium plan), so any files added to that folder get synced to Simplenote’s servers.
 
-I’m so happy now!
-
+The productivity geek in me is happy now :)
