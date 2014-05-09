@@ -24,7 +24,7 @@ I do a lot of reading on the web spread across my laptop, phone and Kindle, so I
 - No Kindle integration
 - Doesn't do much in the way of article discovery. Then again, I have a huge unread count, so this matters very little.
 
-## Instapaper/Pros:
+### Instapaper/Pros:
 
 - Fantastic Kindle integration! You can send upto 50 unread articles to your Kindle wirelessly, every day or every week.
 - Bookmarklets for a text-only view of any webpage and to send the current article to your Kindle.
@@ -34,7 +34,7 @@ I do a lot of reading on the web spread across my laptop, phone and Kindle, so I
 - Android app automatically switches to a dark theme in the evening
 - Better integration with Twitter, Evernote, Tumblr etc. Of course, you can use IFTTT to do the same with Pocket.
  
-## Instapaper/Cons:
+### Instapaper/Cons:
 
 - Search requires a subscription ($12/year)
 - NO JUSTIFIED TEXT!
