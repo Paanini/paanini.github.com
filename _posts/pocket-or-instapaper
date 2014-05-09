@@ -8,7 +8,7 @@ categories: misc
 
 I do a lot of reading on the web spread across my laptop, phone and Kindle, so I've spent a lot of time with read-it-later apps like [Pocket](http://getpocket.com) and [Instapaper](instapaper.com) (Readability's Android app hasn't been updated in forever, and it looks truly awful). Both apps are fabulous in their own right, but I need to pick one, so I'm going to list out the pros and cons of each. Hopefully by the end of this post I'll have figured out which one to keep.
 
-## Pocket/Pros:
+### Pocket/Pros:
 
 - Search is fast (search as you type) and free
 - Supports tagging (I love tags!)
@@ -18,13 +18,13 @@ I do a lot of reading on the web spread across my laptop, phone and Kindle, so I
 - Pocket Highlights is a cool way to come back to some of the better articles
 - Browser extensions for both Chrome and Firefox.
 
-## Pocket/Cons
+### Pocket/Cons
 
 - It's free, so I'm not sure how the app is sustaining itself. I don't want to get Google Reader'ed.
 - No Kindle integration
 - Doesn't do much in the way of article discovery. Then again, I have a huge unread count, so this matters very little.
 
-## Instapaper/Pros:
+### Instapaper/Pros:
 
 - Fantastic Kindle integration! You can send upto 50 unread articles to your Kindle wirelessly, every day or every week.
 - Bookmarklets for a text-only view of any webpage and to send the current article to your Kindle.
@@ -34,7 +34,7 @@ I do a lot of reading on the web spread across my laptop, phone and Kindle, so I
 - Android app automatically switches to a dark theme in the evening
 - Better integration with Twitter, Evernote, Tumblr etc. Of course, you can use IFTTT to do the same with Pocket.
  
-## Instapaper/Cons:
+### Instapaper/Cons:
 
 - Search requires a subscription ($12/year)
 - NO JUSTIFIED TEXT!
