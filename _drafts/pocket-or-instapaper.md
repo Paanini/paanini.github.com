@@ -1,14 +1,14 @@
 ---
 layout: post
 published: true
-title: ""
+title: "Pocket or Instapaper?"
 comments: true
 categories: misc
 ---
 
 I do a lot of reading on the web spread across my laptop, phone and Kindle, so I've spent a lot of time with read-it-later apps like [Pocket](http://getpocket.com) and [Instapaper](instapaper.com) (Readability's Android app hasn't been updated in forever, and it looks truly awful). Both apps are fabulous in their own right, but I need to pick one, so I'm going to list out the pros and cons of each. Hopefully by the end of this post I'll have figured out which one to keep.
 
-## Pocket/Pros:
+### Pocket/Pros:
 
 - Search is fast (search as you type) and free
 - Supports tagging (I love tags!)
@@ -18,7 +18,7 @@ I do a lot of reading on the web spread across my laptop, phone and Kindle, so I
 - Pocket Highlights is a cool way to come back to some of the better articles
 - Browser extensions for both Chrome and Firefox.
 
-## Pocket/Cons
+### Pocket/Cons
 
 - It's free, so I'm not sure how the app is sustaining itself. I don't want to get Google Reader'ed.
 - No Kindle integration
