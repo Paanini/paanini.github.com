@@ -12,10 +12,15 @@
 }
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2{
    font-size: 140%;
    font-weight: 600;
    }
+
+h3, h4, h5, h6 {
+   font-size: 110%;
+   text-align: left;
+}
 
 .header a{
    font-size: 70%;
