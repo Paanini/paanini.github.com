@@ -30,7 +30,10 @@ h3, h4, h5, h6 {
    font-weight: normal;
    }
    
-a { font-weight: 500;}
+a {
+   font-weight: 500;
+   color: #3D8681;
+}
 
 .header {
    margin-top: -15px;
