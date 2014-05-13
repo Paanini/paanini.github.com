@@ -210,11 +210,11 @@ h6 a { color: #34495e; }
 }
 
 .post a {
-  color: #34495e;
+  color: #3d8681;
 }
 
 .post a:hover {
-  color: #638ca6;
+  color: #77aaa7;
   text-decoration: none;
 }
 
