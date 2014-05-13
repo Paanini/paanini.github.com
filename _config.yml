@@ -1,5 +1,5 @@
 name: 30 Books
-markdown: redcarpet
+markdown: kramdown
 pygments: true
 safe: true
 url: http://paanini.github.io
@@ -7,7 +7,7 @@ titlecase: true
 author: Paanini
 email: hello@paanini.me
 root: /
-permalink: /:year/:month/:day/:title/
+permalink: /:title/
 
 prose:
   
