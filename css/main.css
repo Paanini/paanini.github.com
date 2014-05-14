@@ -33,7 +33,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-size: 120%;
   font-weight: bold;
-  color: #3f7a7a;
+  color: #0f5959;
   text-align: center; }
 
 h1 { margin-bottom: 1em; }
@@ -85,7 +85,7 @@ h6 a { color: #34495e; }
 }
 
 .posts a:hover {
-  color: #638ca6;
+  color: #17A697;
   text-decoration: none;
 }
 /*****************************************************************************/
@@ -153,7 +153,7 @@ h6 a { color: #34495e; }
 }
 
 .footer .contact a {
-  color: #638ca6;
+  color: #17A697;
   font-weight: normal;
 }
 
@@ -163,12 +163,8 @@ h6 a { color: #34495e; }
   color: #453;
 }
 
-.footer .rss img {
-  border: 0;
-}
-
 .footer .rss a {
-  color: #50a2da;
+  color: #17A697;
   font-weight: normal;
 }
 /*****************************************************************************/
@@ -210,11 +206,11 @@ h6 a { color: #34495e; }
 }
 
 .post a {
-  color: #3d8681;
+  color: #17A697;
 }
 
 .post a:hover {
-  color: #8bb6b3;
+  color: #E45F56;
   text-decoration: none;
 }
 
