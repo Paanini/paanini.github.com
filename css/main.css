@@ -65,7 +65,7 @@ h6 a { color: #34495e; }
   list-style-type: none;
   margin-bottom: 2em;
   text-align: left;
-  font-size: 120%;
+  font-size: 130%;
 }
 
 .posts li {
@@ -103,6 +103,16 @@ h6 a { color: #34495e; }
   color: #3d3d3d;
 }
 
+/* Increase text-size slightly on high resolution screens */
+@media screen and (min-device-width : 1600px)
+{
+.site {
+  font-size: 120%;
+  line-height: 1.7em;
+}
+}
+
+}
 .header a {
   text-decoration: none;
 }
@@ -118,6 +128,7 @@ h6 a { color: #34495e; }
 
 .title a {
   color: #17a697;
+  text-decoration: none;
 }
 
 .header a.extra {
