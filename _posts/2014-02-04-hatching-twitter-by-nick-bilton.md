@@ -6,7 +6,7 @@ comments: true
 categories: misc
 ---
 
-**Hatching Twitter** by Nick Bilton ([Amazon link](http://www.amazon.in/Hatching-Twitter-Nick-Bilton/dp/1444761951/ref=sr_1_1?s=books&ie=UTF8&qid=1391504704&sr=1-1&keywords=hatching+twitter)) is the first book I've finished readin in 2014, so I thought I'd write about it a little.
+**Hatching Twitter** by Nick Bilton ([Amazon link](http://www.amazon.in/Hatching-Twitter-Nick-Bilton/dp/1444761951/ref=sr_1_1?s=books&ie=UTF8&qid=1391504704&sr=1-1&keywords=hatching+twitter)) is the first book I've finished reading in 2014, so I thought I'd write about it a little.
 
 Right off the bat, this book isn’t about Twitter, the product/website/app. In fact, the story of how the product matured over the years gets almost no mention in the book; particularly Twitter’s transition from an SMS based service to a smartphone app is completely absent.  Similarly, the stories behind the development of Twitter’s now-famous features such as the Retweet, Favourite or Direct Messaging are completely ignored, and Twitter’s biggest contribution to Internet speak, the #hashtag gets very little mention.
 
