@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Hatching Twitter by Nick Bilton
+title: Let's Make Better Mistakes Tomorrow
 comments: true
 categories: misc
 ---
